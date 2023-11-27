@@ -52,7 +52,7 @@ while True:
     limpar_terminal()
     tocar_musica_thread(file_alternativa4, duracao=21)  # Ajuste a duração conforme necessário
     sleep(2)
-    print('Este jogo foi desenvolvido by Chellzin')
+    print('Este jogo foi desenvolvido by Michell')
     sleep(2)
     print('')
     print('')

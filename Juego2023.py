@@ -43,7 +43,7 @@ file_alternativa4 = r'c:\Users\06569212184\Downloads\untitlediiiii.mp3'
 
 # Função para perguntar ao jogador se deseja jogar novamente
 def jogar_novamente():
-    resposta = input("Quer jogar novamente? (s/n): ").lower()
+    resposta = input("Quer jogar novamente? (s/n): ").lower().strip()[0]
     return resposta == 's'
 
 
@@ -52,7 +52,7 @@ while True:
     limpar_terminal()
     tocar_musica_thread(file_alternativa4, duracao=21)  # Ajuste a duração conforme necessário
     sleep(2)
-    print('Este jogo foi desenvolvido by Michell')
+    print('Este jogo foi desenvolvido por Michell')
     sleep(2)
     print('')
     print('')

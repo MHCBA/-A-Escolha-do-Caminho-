@@ -37,8 +37,8 @@ def tocar_musica_thread(arquivo, duracao=None):
 # Lista de arquivos de áudio
 file_alternativa1 = r'c:\Users\06569212184\Desktop\sucesso.mp3'
 file_alternativa2 = r'c:\Users\06569212184\Desktop\falha.mp3'
-file_alternativa3 = r'c:\Users\06569212184\Downloads\Chell-Sem-título-6-de-out.-de-2023-2246.mp3'
-file_alternativa4 = r'c:\Users\06569212184\Downloads\untitlediiiii.mp3'
+file_alternativa3 = r'c:\Users\06569212184\Downloads\Ghost_fantasma.mp3'
+file_alternativa4 = r'c:\Users\06569212184\Downloads\Trilha_sonora.mp3'
 
 
 # Função para perguntar ao jogador se deseja jogar novamente
